@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PaulDotSH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 📘 I’m currently learning **C++, Linux and Reverse Engineering**
+- 📘 I’m currently learning **Rust, Linux and Reverse Engineering**
 
 - 🔮 I want to learn in the future **Pentesting, Javascript, Node, Mongo, Typescript, React, Vue, CSS and Bootstrap**
 
-- 📫 How to contact me **058b1de069fcac09f88718d5fb426420e0cd37cd57c7733c3eac3fd941faf14242** on session
+- 📫 How to contact me **@pauldotsh:matrix.org**
 
 <h3 align="center">GitHub Trophies 🏆</h3>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PaulDotSH&theme=gruvbox&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="PaulIRL" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PaulDotSH&theme=gruvbox&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="PaulIRL" /></a>
 </p>
 
 <h3 align="center">GitHub Stats &#x1f4c8;</h3>
@@ -29,10 +29,48 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <!-- Languages -->
+    <a href="https://go.dev/doc/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+    </a>
+    <a href="https://en.cppreference.com/w/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+    </a>
+    <a href="https://en.cppreference.com/w/c/language" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+        <a href="https://www.rust-lang.org/learn" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    </a>
     <a href="https://www.w3schools.com/cs/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    </a> 
+    </a>
+    <a href="https://docs.python.org/3/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python3" width="40" height="40"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <!-- IDEs -->
+    <a href="https://www.jetbrains.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/>
+    </a>
+    <!-- FAMEWORKS -->
+    <a href="https://nodejs.org/en/docs/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <!-- TOOLS -->
+    <a href="https://git-scm.com/doc" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+    </a> 
+    <a href="https://cmake.org/documentation/" target="_blank">
+        <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original-wordmark.svg" alt="cmake" width="40" height="40"/>
+    </a>
+    <!-- OTHER -->
+    <a href="https://www.raspberrypi.com/documentation/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberry pi" width="40" height="40"/>
     </a>
 </p>
