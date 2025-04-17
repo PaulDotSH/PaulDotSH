@@ -8,7 +8,7 @@
 
 - 📘 I’m currently learning **Rust, Linux and Reverse Engineering**
 
-- 🔮 I want to learn in the future **Pentesting, Javascript, Node, Mongo, Typescript, React, Vue, CSS and Bootstrap**
+- 🔮 I want to learn in the future **Everything cybersecurity relared, everything low level**
 
 - 📫 How to contact me **@pauldotsh:matrix.org**
 
